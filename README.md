@@ -30,5 +30,5 @@ Contendrá todos los archivos css
 
 <h2>Imagen del sitio web</h2>
 ==========
-<br>
+
 ![](https://github.com/isgam1/demoservicio/blob/master/readme/DemoServicio.JPG)
