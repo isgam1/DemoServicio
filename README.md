@@ -1,5 +1,5 @@
 # Demoservicio
-Sitio Web cara ofrecer tus Servicios de Informatica en HTML5, Bootstrap,Javascript and jQuery
+Sitio Web para ofrecer tus Servicios de Informatica en HTML5, Bootstrap,Javascript and jQuery
 
 Desarrollé una página web desde cero usando; HTML5, JavaScript, Bootstrap y Jquery.
 El objetivo del proyecto era crear un plantilla en el cual se pueda ofrecer los servicios que dominas y mejor manejas bien. 
